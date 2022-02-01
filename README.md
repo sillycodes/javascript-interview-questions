@@ -4,6 +4,8 @@
 
 Go to [Coding Exercise](#coding-exercise) for coding specific questions
 
+
+
 ## Download PDF/Epub formats
 
 You can download the PDF and Epub version of this repository from the latest run on the [actions tab](https://github.com/sudheerj/JavaScript-Interview-Questions/actions).
@@ -9176,6 +9178,10 @@ Whereas the second console.log logs 10 by capturing the count variable from oute
 </details>
 
 ---
+
+## ## Additonal Resources ###
+
+- https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions#intermediate_nodejs_interview_questions
 
 **[⬆ Back to Top](#table-of-contents)**
 
